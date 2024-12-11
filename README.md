@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Logesh R!
-  <img align="right" src="[https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif](https://www.google.com/imgres?q=data%20analyst%20like%20background%20image&imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2Ff6%2Fec%2Fc8%2Ff6ecc849c9e9f1ad78c7f7f7fd6a824e.jpg&imgrefurl=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fguardado-rpido--630433647865769249%2F&docid=6Yvhn9No0jwIQM&tbnid=l_sF8hrf20JSlM&vet=12ahUKEwjej6aIxJ-KAxU-xzgGHSjKHmcQM3oECE0QAA..i&w=736&h=414&hcb=2&ved=2ahUKEwjej6aIxJ-KAxU-xzgGHSjKHmcQM3oECE0QAA)" alt="Data Analyst Background" width="370" height="290">
+  <img align="right" src="https://www.google.com/imgres?q=data%20analyst%20like%20background%20image&imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2Ff6%2Fec%2Fc8%2Ff6ecc849c9e9f1ad78c7f7f7fd6a824e.jpg&imgrefurl=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fguardado-rpido--630433647865769249%2F&docid=6Yvhn9No0jwIQM&tbnid=l_sF8hrf20JSlM&vet=12ahUKEwjej6aIxJ-KAxU-xzgGHSjKHmcQM3oECE0QAA..i&w=736&h=414&hcb=2&ved=2ahUKEwjej6aIxJ-KAxU-xzgGHSjKHmcQM3oECE0QAA" alt="Data Analyst Background" width="370" height="290">
 🎓 **Full Stack Developer** | 📊 **Data Analyst**  
 
 
