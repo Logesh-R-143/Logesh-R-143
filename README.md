@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Logesh R!
 
-  <img align="right" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Data Analyst Background" width="400" height="350">
+  <img align="right" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Data Analyst Background" width="370" height="350">
 
 🎓 **Full Stack Developer** | 📊 **Data Analyst**  
 
