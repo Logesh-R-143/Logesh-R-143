@@ -7,7 +7,7 @@
 
 ## 🌟 About Me
 - 💻 Passionate about building solutions with **Java**,**Python**,and **SQL**.
-- 🔍 Interested in **data analysis** and creating user-friendly web applications.
+- 🔍 Interested in **Data Analysis** and creating user-friendly web applications.
 
 
 
