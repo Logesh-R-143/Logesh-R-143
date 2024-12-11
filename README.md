@@ -16,7 +16,7 @@
 
 
 ## 📂 Projects
-- 🚀 **[Power BI Project]([your-link-here](https://github.com/Logesh-R-143/Power-BI.git))**: Analyzing customer trends and sales data using Power BI.
+- 🚀 **[Power BI Project](https://github.com/Logesh-R-143/Power-BI.git)**: Analyzing customer trends and sales data using Power BI.
 - 🛠️ **[Swiggy Funnel Analysis](your-link-here)**: A project on user behavior analysis using SQL.
 - 🌐 **[Entertainment Website Clone (Mytunes)](your-link-here)**: Built a responsive website using HTML, CSS, and JavaScript.
 - 📷 **[Album Layout Project](your-link-here)**: A web-based photo album layout created using HTML, CSS, and JavaScript.
