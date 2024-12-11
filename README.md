@@ -20,17 +20,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=logesh-r-143&" alt="logesh-r-143" /></p>
 
 
-
-## 📂 Projects
-- 🚀 **[Power BI Project](https://github.com/Logesh-R-143/Power-BI.git)**: Analyzing customer trends and sales data using Power BI.
-- 🛠️ **[Swiggy Funnel Analysis](your-link-here)**: A project on user behavior analysis using SQL.
-- 🌐 **[Entertainment Website Clone (Mytunes)](your-link-here)**: Built a responsive website using HTML, CSS, and JavaScript.
-- 📷 **[Album Layout Project](your-link-here)**: A web-based photo album layout created using HTML, CSS, and JavaScript.
-- 🎨 **[Parallax Website](your-link-here)**: A parallax scrolling website built with HTML, CSS, and JavaScript.
-- 🌍 **[BlurLandingsites](your-link-here)**: An innovative landing page built with a blurred background effect.
-
----
-
 ## 📬 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/logesh-r-74398a213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
