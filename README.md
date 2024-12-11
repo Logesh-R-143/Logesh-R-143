@@ -31,9 +31,11 @@
 
 ---
 
-## 📬 Connect with me
-- 💼 **LinkedIn**: [Logesh R](https://www.linkedin.com/in/logesh-r-74398a213)
-- 💻 **GitHub**: [Logesh-R-143](https://github.com/Logesh-R-143)
-- 📧 **Email**: logu46461@gmail.com
+## 📬 Contact
+- [![LinkedIn](https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/logesh-r-74398a213) **[Logesh R](https://www.linkedin.com/in/logesh-r-74398a213)**
+- [![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg)](https://github.com/Logesh-R-143) **[Logesh-R-143](https://github.com/Logesh-R-143)**
+- [![Email](https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg)](mailto:logu46461@gmail.com) **logu46461@gmail.com**
+
+---
 
 ---
