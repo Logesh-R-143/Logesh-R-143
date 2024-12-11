@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Logesh R!
 
 🎓 **Full Stack Developer** | 📊 **Data Analyst**  
-📍 **Tuticorin, Tamil Nadu** | 🕒 **IST (Indian Standard Time)**
 
 ---
 
