@@ -31,7 +31,7 @@
 
 ---
 
-## 📬 Contact
+## 📬 Connect with me
 - 💼 **LinkedIn**: [Logesh R](https://www.linkedin.com/in/logesh-r-74398a213)
 - 💻 **GitHub**: [Logesh-R-143](https://github.com/Logesh-R-143)
 - 📧 **Email**: logu46461@gmail.com
