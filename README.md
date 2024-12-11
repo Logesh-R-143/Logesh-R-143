@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Logesh R!
 
-  <img src="DALL·E 2024-12-11 16.01.09 - A modern and sleek background design representing data analysis, featuring graphs, charts, and data points in a futuristic style. The image should hav.webp" alt="Data Analyst Background" width="300" height="400">
+  <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Data Analyst Background" width="300" height="400">
 
 🎓 **Full Stack Developer** | 📊 **Data Analyst**  
 
