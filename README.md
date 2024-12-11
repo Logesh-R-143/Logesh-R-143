@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Logesh R!
 
-<!--
-**Logesh-R-143/Logesh-R-143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Full Stack Developer** | 📊 **Data Analyst** | 🌐 **Web Enthusiast**  
+📍 Tuticorin, Tamil Nadu | 🕒 IST (Indian Standard Time)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 **About Me**
+- 💻 Passionate about solving real-world problems through technology.
+- 🧠 Constant learner exploring **Python**, **JavaScript**, and **SQL**.
+- 🔍 Interested in **data visualization** and creating user-friendly interfaces.
+
+---
+
+## 🔧 **Skills**
+- **Languages**: Python, HTML, CSS, JavaScript, SQL
+- **Tools**: Power BI, Git, PostgreSQL
+- **Frameworks**: React, Node.js
+
+---
+
+## 📂 **Projects**
+- 🚀 **[NexusGoods Store (Power BI)]()**: Analyzed sales and customer trends using Power BI dashboards.
+- 🛠️ **[Swiggy Funnel Analysis]()**: SQL-based exploration of user funnels and KPIs.
+- 🌐 **[Entertainment Website Clone]()**: A responsive web app built with HTML, CSS, and JavaScript.
+
+---
+
+## 📬 **Contact Me**
+- 💼 **LinkedIn**: [Logesh R](https://www.linkedin.com/in/logesh-r-74398a213)
+- 💻 **GitHub**: [Logesh-R-143](https://github.com/Logesh-R-143)
+- 📧 **Email**: logu46461@gmail.com
+
+---
