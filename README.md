@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Logesh R!
 
-🎓 **Full Stack Developer** | 📊 **Data Analyst**  
+🎓 **Full Stack Developer** | 📊 **Data Analyst**  <p align="center">
+  <img src="https://user-images.githubusercontent.com/YOUR_IMAGE_LINK" alt="Data Analyst Background" width="800" height="400">
+</p>
+
 
 
 
