@@ -13,23 +13,23 @@
 
 ## 🛠️ Skills
 - **Languages**: 
-  - ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg =40x40) **Python**
-  - ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg =40x40) **JavaScript**
-  - ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg =40x40) **HTML**
-  - ![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg =40x40) **CSS**
-  - ![SQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg =40x40) **SQL**
+  - ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) **Python**
+  - ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) **JavaScript**
+  - ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) **HTML**
+  - ![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) **CSS**
+  - ![SQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) **SQL**
 
 - **Tools**: 
-  - ![Power BI](https://upload.wikimedia.org/wikipedia/commons/2/29/Microsoft_Power_BI_Logo.svg =40x40) **Power BI**
-  - ![Excel](https://upload.wikimedia.org/wikipedia/commons/5/51/Microsoft_Excel_2013_logo_%28dark_icon%29.svg =40x40) **MS Excel**
-  - ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg =40x40) **Git**
+  - ![Power BI](https://upload.wikimedia.org/wikipedia/commons/2/29/Microsoft_Power_BI_Logo.svg) **Power BI**
+  - ![Excel](https://upload.wikimedia.org/wikipedia/commons/5/51/Microsoft_Excel_2013_logo_%28dark_icon%29.svg) **MS Excel**
+  - ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg) **Git**
 
 - **Frameworks**: 
-  - ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg =40x40) **React**
-  - ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg =40x40) **Node.js**
+  - ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) **React**
+  - ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) **Node.js**
 
 - **Databases**:
-  - ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg =40x40) **PostgreSQL**
+  - ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg) **PostgreSQL**
 
 ---
 
